@@ -4,7 +4,7 @@ import Main from "./Main_Page";
 import Login from "./Login";
 
 // export const serverRoute = 'http://localhost:8080'
-export const serverRoute = "https://tic-6gfk.onrender.com";
+export const serverRoute = "https://qidyeh-se.onrender.com";
 // export const serverRoute = "https://salmh-se2.onrender.com";
 export const token = localStorage.getItem("token");
 function App() {
